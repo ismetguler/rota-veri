@@ -1,0 +1,53 @@
+{
+  "surum": 1,
+  "guncelleme": "2026-11-13",
+  "siradakiDers": 1,
+  "tekrar": [
+    {
+      "ders": 1,
+      "soru": "Frontend, backend ve veritabanı ne yapar? Birer cümle.",
+      "cevap": "Frontend kullanıcının gördüğü ekrandır. Backend arkada işi yapan ve kuralları uygulayan programdır. Veritabanı verinin kalıcı olarak saklandığı yerdir."
+    },
+    {
+      "ders": 1,
+      "soru": "Backend ile veritabanı arasındaki fark ne?",
+      "cevap": "Backend karar verir ve işlem yapar, veritabanı yalnızca veriyi saklar ve istenince geri verir."
+    },
+    {
+      "ders": 1,
+      "soru": "Ekrana yazı yazdıran Java komutu ne?",
+      "cevap": "System.out.println(\"yazı\");"
+    },
+    {
+      "ders": 1,
+      "soru": "Bir Java programı hangi metottan çalışmaya başlar?",
+      "cevap": "main metodundan: public static void main(String[] args)"
+    }
+  ],
+  "ilanlar": [
+    {
+      "id": "ulusal-staj-2027",
+      "ad": "Ulusal Staj Programı 2027",
+      "sirket": "Cumhurbaşkanlığı İK Ofisi (kamu + özel)",
+      "tur": "Yaz stajı",
+      "sonTarih": "2026-12-14",
+      "link": "https://kariyerkapisi.cbiko.gov.tr"
+    },
+    {
+      "id": "logo-login-winter",
+      "ad": "LOG-in Winter Staj Programı",
+      "sirket": "Logo Yazılım",
+      "tur": "Dönem içi",
+      "sonTarih": null,
+      "link": "https://www.youthall.com/tr/yetenek-programlari/logo-yazilim-log-in-winter-staj-programi"
+    },
+    {
+      "id": "yapi-kredi-future-squad",
+      "ad": "Future Squad Uzun Dönem Staj",
+      "sirket": "Yapı Kredi Teknoloji",
+      "tur": "Uzun dönem",
+      "sonTarih": null,
+      "link": "https://kampusum.co/is-ilani/yapi-kredi-teknoloji-future-squad-uzun-donem-staj-programi-2026"
+    }
+  ]
+}
