@@ -1,6 +1,6 @@
 {
   "surum": 1,
-  "guncelleme": "2026-11-13",
+  "guncelleme": "2026-11-14",
   "siradakiDers": 1,
   "tekrar": [
     {
@@ -38,8 +38,8 @@
       "ad": "LOG-in Winter Staj Programı",
       "sirket": "Logo Yazılım",
       "tur": "Dönem içi",
-      "sonTarih": null,
-      "link": "https://www.youthall.com/tr/yetenek-programlari/logo-yazilim-log-in-winter-staj-programi"
+      "sonTarih": "2026-11-22",
+      "link": "https://www.youthall.com/tr/LogoYazilim/log-in-winter-staj-programi_34/"
     },
     {
       "id": "yapi-kredi-future-squad",
@@ -48,6 +48,30 @@
       "tur": "Uzun dönem",
       "sonTarih": null,
       "link": "https://kampusum.co/is-ilani/yapi-kredi-teknoloji-future-squad-uzun-donem-staj-programi-2026"
+    },
+    {
+      "id": "pg-it-yaz-2027",
+      "ad": "Summer Internship 2027: Information Technology",
+      "sirket": "P&G",
+      "tur": "Yaz stajı · İstanbul",
+      "sonTarih": "2026-12-16",
+      "link": "https://www.youthall.com/en/pgcareersturkey/summer-internship-2027-information-technology_115/"
+    },
+    {
+      "id": "commencis-cloud-camp-2027",
+      "ad": "Cloud Camp 2027 (online eğitim, staj fırsatı)",
+      "sirket": "Commencis",
+      "tur": "Online kamp · uzaktan",
+      "sonTarih": "2026-12-31",
+      "link": "https://www.youthall.com/en/Commencis/commencis-cloud-camp-2027_50/"
+    },
+    {
+      "id": "sentry-viyana-yaz-2027",
+      "ad": "Software Engineer, Intern (Summer 2027)",
+      "sirket": "Sentry",
+      "tur": "Yaz stajı · Avusturya",
+      "sonTarih": null,
+      "link": "https://sentry.io/careers/fa522ac5-fc9f-4ce1-a191-842496a235a2/"
     }
   ]
 }
