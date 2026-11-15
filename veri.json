@@ -1,7 +1,7 @@
 {
   "surum": 1,
   "guncelleme": "2026-11-15",
-  "siradakiDers": 2,
+  "siradakiDers": 3,
   "tekrar": [
     {
       "ders": 1,
@@ -27,6 +27,26 @@
       "ders": 1,
       "soru": "Merhaba adlı class hangi dosyada durmalı?",
       "cevap": "Merhaba.java dosyasında. Class adı ile dosya adı aynı olur."
+    },
+    {
+      "ders": 2,
+      "soru": "Derleyici ne yapar? Hata yoksa ne olur?",
+      "cevap": "Kodu çalıştırmadan önce baştan sona okuyup kural hatalarını listeler. Hata yoksa program çalışır."
+    },
+    {
+      "ders": 2,
+      "soru": "Birden çok hata çıktığında hangisinden başlarsın, neden?",
+      "cevap": "En üsttekinden. Alttakilerin çoğu ilk hatanın yan etkisidir, onu düzeltince giderler."
+    },
+    {
+      "ders": 2,
+      "soru": "int döndüren bir metotta return yazmazsan hangi hatayı alırsın?",
+      "cevap": "missing return statement. Metot int vermeye söz vermiş ama vermemiş."
+    },
+    {
+      "ders": 2,
+      "soru": "println ile return farkı ne?",
+      "cevap": "println ekrana yazar. return değeri çağıran yere geri verir, o değer saklanabilir ya da hesapta kullanılabilir."
     }
   ],
   "ilanlar": [
