@@ -1,6 +1,6 @@
 {
   "surum": 1,
-  "guncelleme": "2026-11-14",
+  "guncelleme": "2026-11-15",
   "siradakiDers": 1,
   "tekrar": [
     {
@@ -72,6 +72,14 @@
       "tur": "Yaz stajı · Avusturya",
       "sonTarih": null,
       "link": "https://sentry.io/careers/fa522ac5-fc9f-4ce1-a191-842496a235a2/"
+    },
+    {
+      "id": "cern-openlab-yaz-2027",
+      "ad": "openlab Summer Student Programme 2027",
+      "sirket": "CERN",
+      "tur": "Yaz stajı · İsviçre",
+      "sonTarih": "2027-01-21",
+      "link": "https://careers.cern/summer"
     }
   ]
 }
