@@ -1,7 +1,7 @@
 {
   "surum": 1,
   "guncelleme": "2026-11-15",
-  "siradakiDers": 1,
+  "siradakiDers": 2,
   "tekrar": [
     {
       "ders": 1,
@@ -22,6 +22,11 @@
       "ders": 1,
       "soru": "Bir Java programı hangi metottan çalışmaya başlar?",
       "cevap": "main metodundan: public static void main(String[] args)"
+    },
+    {
+      "ders": 1,
+      "soru": "Merhaba adlı class hangi dosyada durmalı?",
+      "cevap": "Merhaba.java dosyasında. Class adı ile dosya adı aynı olur."
     }
   ],
   "ilanlar": [
