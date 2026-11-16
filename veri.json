@@ -1,6 +1,6 @@
 {
   "surum": 1,
-  "guncelleme": "2026-11-15",
+  "guncelleme": "2026-11-16",
   "siradakiDers": 3,
   "tekrar": [
     {
@@ -105,6 +105,22 @@
       "tur": "Yaz stajı · İsviçre",
       "sonTarih": "2027-01-21",
       "link": "https://careers.cern/summer"
+    },
+    {
+      "id": "quantco-avrupa-swe-intern",
+      "ad": "Software Engineering Intern (Europe)",
+      "sirket": "QuantCo",
+      "tur": "Yaz / dönem dışı staj · Almanya",
+      "sonTarih": null,
+      "link": "https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c"
+    },
+    {
+      "id": "imc-amsterdam-yaz-2027",
+      "ad": "Software Engineer Intern (Summer 2027)",
+      "sirket": "IMC Trading",
+      "tur": "Yaz stajı · Hollanda",
+      "sonTarih": null,
+      "link": "https://www.imc.com/eu/careers/jobs/4667854101"
     }
   ],
   "mufredat": {
