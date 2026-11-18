@@ -1,6 +1,6 @@
 {
   "surum": 1,
-  "guncelleme": "2026-11-17",
+  "guncelleme": "2026-11-18",
   "siradakiDers": 3,
   "tekrar": [
     {
@@ -121,6 +121,14 @@
       "tur": "Yaz stajı · Hollanda",
       "sonTarih": null,
       "link": "https://www.imc.com/eu/careers/jobs/4667854101"
+    },
+    {
+      "id": "revolut-java-yaz-2027",
+      "ad": "Internship Programme 2027: Software Engineer (Java)",
+      "sirket": "Revolut",
+      "tur": "Yaz stajı · Polonya / Portekiz / BAE / Birleşik Krallık",
+      "sonTarih": null,
+      "link": "https://www.revolut.com/careers/position/a9cd5545-7d52-4e8f-bce9-1b67343ccc11/"
     }
   ],
   "mufredat": {
